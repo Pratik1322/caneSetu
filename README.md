@@ -155,14 +155,4 @@ For detailed API documentation, check the route files in `backend/routes/`.
 | CORS errors | Check `CORS_ORIGIN` in `.env` matches your frontend URL |
 | Port already in use | Change `PORT` in `.env` |
 
-## Contributing
 
-1. Create a feature branch: `git checkout -b feature/your-feature`
-2. Make changes and test locally
-3. Commit: `git commit -m "Add feature"`
-4. Push: `git push origin feature/your-feature`
-5. Open a Pull Request
-
-## License
-
-ISC
